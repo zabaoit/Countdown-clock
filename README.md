@@ -1,2 +1,2 @@
 # Countdown-clock
-Basic python countdown clock
+A basic Countdown clock using Python.
